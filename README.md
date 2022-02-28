@@ -1,4 +1,4 @@
-# Phoenix-Point
+# Phoenix Point
 A multimedia tool that allows users to flip, crop, or add filters to an image.
 
 ## Dependencies
